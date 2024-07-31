@@ -1,6 +1,6 @@
 # ORBIDI "Map My World" FastAPI
 
-Este proyecto es una aplicación web construida con FastAPI y SQLAlchemy, que utiliza SQLite como base de datos. A continuación se describe cómo iniciar el proyecto, construir el contenedor Docker y ejecutar pruebas.
+Este proyecto es una API REST construida con FastAPI y SQLAlchemy, que utiliza SQLite como base de datos. A continuación se describe cómo iniciar el proyecto, construir el contenedor Docker y ejecutar pruebas.
 
 ## Requisitos
 
