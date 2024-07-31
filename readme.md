@@ -11,10 +11,15 @@ Este proyecto es una aplicación web construida con FastAPI y SQLAlchemy, que ut
 ## Iniciar el proyecto
 
 - Ubicarte en la raiz del proyecto
+    
     cd app
 
+
 - Iniciar y construir el contenedor docker
+    
     docker-compose up --build
 
+
 - En el navegador copiar la siguiente url
+    
     http://localhost:8000/docs#/
